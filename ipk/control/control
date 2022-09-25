@@ -1,0 +1,7 @@
+Package: headtracking-msp
+Version: 0.0.1
+Maintainer: shambler
+Description: Enables headtracking on v1 googles
+Architecture: pigeon-v1
+Homepage: https://github.com/shambler123/wtf_headtracking-msp/
+Depends: wtfos-modloader
